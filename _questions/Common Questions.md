@@ -18,8 +18,7 @@
 - [x] What is OLTP? [[concepts/databases/OLTP|answer]]
 - [x] What is correlation? [[concepts/statistics/Correlation|answer]]
 - [ ] What is data augmentation process in ML?
-- [ ] What is descriptive statistics?
-- [ ] What is informative statistics?
+- [x] What is descriptive statistics? [[concepts/statistics/Descriptive Statistics|answer]]
 - [ ] How to handle missing values in the data and outliers?
 - [ ] What is Spark MLLib?
 - [ ] What is Zeppelin in context of Apache Spark?

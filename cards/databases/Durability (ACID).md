@@ -1,0 +1,3 @@
+<mark style="background: #FFF3A3A6;">Once a transaction is committed (marked as successful), its changes become permanent and survive even if the system crashes or experiences power outages.</mark> The committed data is written to non-volatile storage, like a hard disk, ensuring it persists even when the system restarts. Think of it like sending an email – once you hit send, the message is out there, even if your computer restarts.
+
+#card 

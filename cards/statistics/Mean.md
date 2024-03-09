@@ -1,0 +1,1 @@
+[[concepts/statistics/Mean|Mean]] in statistics, often called the **arithmetic mean**, represents the **average** of a set of data. <mark style="background: #FFF3A3A6;">**summing all the values in the dataset and then dividing by the total number of values**</mark>

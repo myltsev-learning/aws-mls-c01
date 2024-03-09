@@ -1,0 +1,3 @@
+Stands for I in [[ACID]]. <mark style="background: #FFF3A3A6;">Transactions should act as if they're happening in their own little world, unaware of other concurrent transactions.</mark> This means one transaction's changes shouldn't be visible to another until the first one is complete. Imagine two users trying to buy the last item in stock at the same time. Isolation ensures only one purchase succeeds, avoiding conflicts and data corruption.
+
+#card 

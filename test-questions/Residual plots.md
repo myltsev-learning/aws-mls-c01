@@ -1,0 +1,3 @@
+```
+Context: I understand the basics of using residual plots to detect bias in a regression model. Topic: Interpreting residual plots Request for Gemini AI: * Provide examples of what different patterns in residual plots might indicate. Include visuals if possible. For example, what would a residual plot look like if the model consistently overestimates for high target values? * Are there scenarios where residual plots might be misleading or where other diagnostic techniques would also be important? * Could you provide a short exercise where I'm given a residual plot and asked to interpret the potential issues with the regression model?
+```

@@ -1,0 +1,3 @@
+```
+**Context:** I was working on a logistic regression classification problem for predicting pizza ordering behavior. I incorrectly thought misclassification rate was the best way to evaluate the impact of different classification thresholds. **Topic:** Understanding and using ROC curves for model evaluation **Request for Gemini AI:** * Please explain what ROC curves are and why they are the ideal tool for assessing how a classification model performs at different thresholds. * Provide examples of how to interpret ROC curves in the context of a classification problem like predicting pizza ordering. * Include a practical exercise where I can analyze a provided ROC curve and make decisions about the optimal threshold based on the problem's requirements.
+```

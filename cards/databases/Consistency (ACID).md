@@ -1,0 +1,3 @@
+Stands for C in [[ACID]]. This one ensures that your <mark style="background: #FFF3A3A6;">database adheres to its predefined rules and constraints. Before a transaction starts, the database is in a valid state. After the transaction is completed, the database must again be in a valid state, adhering to those same rules.</mark> This prevents inconsistencies like having more money spent than exists in an account.
+
+#card

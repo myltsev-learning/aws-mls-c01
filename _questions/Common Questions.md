@@ -1,0 +1,93 @@
+- [x] What is the difference between relational db and data warehouse? [[Relational Databases vs. Data Warehouses - Key Differences|answer]]
+- [x] What is a topology of the neural network? [[Topology of ANN|answer]]
+- [x] What are hyperparameters of the neural network? [[entities/general/Hyperparameters of ANN|answer]]
+- [x] Why is Data Lake called "lake"? [[Data Lake|answer]]
+- [x] What is the columnar format of the data? (in contrast with row format?) [[concepts/databases/Columnar Data Format|answer]]
+- [x] What is Confusion Matrix in Machine Learning? [[Confusion Matrix|answer]]
+- [x] What is content-based filtering recommendation engine in ML? [[Content Filtering|answer]]
+- [x] What is collaborative filtering recommendation engine in ML? [[Collaborative Filtering|answer]]
+- [x] What is model-based filtering recommendation engine in ML? (seems to be just common term for AI filtering)
+- [x] What is combinative filtering recommendation engine in ML? (seems to be a mix of collaborative and content based filtering)
+- [x] What is the parquet data format? [[entities/general/Parquet data format|answer]]
+- [ ] What is the k-Nearest-Neighbors (kNN) algorithm in ML?
+- [ ] What is the Random Cut Forest (RCF) algorithm in ML?
+- [ ] What is the Linear Learner algorithm in ML?
+- [ ] What is Apache Hadoop?
+- [ ] What is MapReduce?
+- [ ] What is Apache Spark?
+- [x] What is OLTP? [[concepts/databases/OLTP|answer]]
+- [x] What is correlation? [[concepts/statistics/Correlation|answer]]
+- [ ] What is data augmentation process in ML?
+- [ ] What is descriptive statistics?
+- [ ] What is informative statistics?
+- [ ] How to handle missing values in the data and outliers?
+- [ ] What is Spark MLLib?
+- [ ] What is Zeppelin in context of Apache Spark?
+- [ ] What is feature engineering in ML?
+- [x] What is dimensionality of data in ML? [[concepts/machine learning/Dimentionality|answer]]
+- [x] What is Curse of Dimensionality in ML? [[concepts/machine learning/Curse of Dimentionality|answer]]
+- [x] What is dimensionality reduction in ML? [[PCA|one of the answers]]
+- [ ] What is imputing missing data in ML?
+- [ ] What is Mean Replacement in ML?
+- [ ] What is Dropping missing data approach in ML?
+- [ ] How to use KNN algorithm for imputing data in ML?
+- [ ] How to use Deep Learning for imputing data in ML?
+- [ ] How to use regression for imputing data in ML?
+- [ ] What is unbalanced data in ML?
+- [ ] How to handle unbalanced data in ML?
+- [x] What is PCA (Principal Component Analysis) in ML? [[PCA|answer]]
+- [ ] What is t-distributed stochastic neighbor embedding?
+- [ ] What is Oversampling technique in handling unbalanced data in ML?
+- [ ] What is Undersampling technique in handling unbalanced data in ML?
+- [ ] What is MICE in context of ML?
+- [ ] What is SMOTE in ML?
+- [ ] What is Binning in feature engineering in ML?
+- [ ] What is Transforming in feature engineering in ML?
+- [ ] What is Encoding in feature engineering in ML?
+- [ ] What is Scaling in feature engineering in ML?
+- [ ] What is Shuffling in feature engineering in ML?
+- [ ] What is one-hot encoding?
+- [ ] What are the types of missing values MCAR, MAR, MNAR?
+- [x] What is activation function? [[entities/ml/Activation Function|answer]]
+- [x] What are Convolutional Neural Networks? [[entities/neural networks/Convolutional Neural Network (CNN)|answer]]
+- [x] What are Recurrent Neural Networks? [[entities/neural networks/Recurrent Neural Network (RNN)|answer]]
+- [ ] What is Transformer deep learning architecture in AI?
+- [ ] What is the fine-tuning of the model in AI?
+- [ ] What is Learning Rate hyperparameter of ANN?
+- [ ] What is batch size hyperparameter of ANN?
+- [ ] What is regularization of ANN? Which techniques are exist?
+- [x] What is overfitting in AI? [[concepts/machine learning/Underfitting|answer]]
+- [x] What is underfitting in AI? [[concepts/machine learning/Overfitting|answer]]
+- [ ] What is L1 and L2 regularization in AI?
+- [ ] What is the Vanishing Gradient Problem?
+- [ ] How do we dubug training of the ANN?
+- [ ] What is Precision of the model?
+- [ ] What is Recall of the model?
+- [ ] What is F1 of the model?
+- [ ] What is AUC of the model?
+- [ ] What is ROC Curve in ML?
+- [ ] What is P-R Curve?
+- [ ] What is Bagging in ML?
+- [ ] What is Boosting in ML?
+- [ ] What is XGBoost in ML?
+- [ ] What are the most used hyperparameters of the Linear Learner algo?
+- [ ] What are the most used hyperparameters of the XGBoost algo?
+- [ ] What is the seq2seq algorithm?
+- [ ] What are the most used hyperparameters of the seq2seq algo?
+- [ ] What is DeepAR ML algorithm?
+- [ ] What are the most used hyperparameters of the DeepAR algo?
+- [ ] What is BlazingText ML algorithm?
+- [ ] What are the most used hyperparameters of the BlazingText algo?
+- [ ] What is Object2Vec ML algo?
+- [ ] What are the most used hyperparameters of the Object2Vec algo?
+- [ ] What is multicollinearity of the data?
+- [ ] What is Variance Inflation Factor (VIF)?
+- [ ] What is Lasso and Ridge regularization techniques?
+- [ ] What is the Mean Squared Error metric?
+- [ ] What is the Root Mean Squared Error metric?
+- [ ] What is the Mean Absolute Percentage Error metric?
+- [ ] What is the Mean Absolute Error metric?
+- [ ] What is the R-Squared metric?
+- [ ] What is SSML for the document?
+- [ ] 
+#hidden

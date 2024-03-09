@@ -88,6 +88,7 @@
 - [ ] What is the Mean Absolute Percentage Error metric?
 - [ ] What is the Mean Absolute Error metric?
 - [ ] What is the R-Squared metric?
-- [ ] What is SSML for the document?
-- [ ] 
+- [x] What is SSML for the document? [[entities/ml/SSML|answer]]
+- [x] What is pronunciation lexicon? [[entities/aws/Pronunciation Lexicon|answer]]
+
 #hidden

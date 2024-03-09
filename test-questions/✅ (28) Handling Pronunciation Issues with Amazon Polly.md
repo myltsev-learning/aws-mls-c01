@@ -28,6 +28,7 @@ Since your answer indicates a lack of understanding of how to handle pronunciati
 
 ```
 Lesson: Handling Pronunciation Issues with Amazon Polly
+Context: Preparation to AWS Machine Learning Speciality exam
 
 In this lesson, please cover the following:
 
@@ -37,7 +38,7 @@ In this lesson, please cover the following:
 3. Other techniques for improving pronunciation accuracy, such as using SSML tags.
 4. Best practices and guidelines for handling pronunciation issues in text-to-speech applications.
 
-Please provide detailed explanations, examples, and code snippets (if applicable) to ensure a comprehensive understanding of the topic.
+Please provide detailed explanations, examples, and code snippets (if applicable) to ensure a comprehensive understanding of the topic. Run the lesson section by section, use markdown to display content.
 ```
 
 By learning about pronunciation lexicons and other techniques for handling pronunciation issues with Amazon Polly, you can better address similar problems in the future. 📚

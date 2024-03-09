@@ -7,7 +7,7 @@
 - [ ] What is Amazon Bedrock?
 - [x] What is Amazon SageMaker? [[Amazon SageMaker|answer]]
 - [ ] What is Amazon ECS Fargate?
-- [ ] What is Amazon Polly?
+- [x] What is Amazon Polly?
 - [ ] 
 
 #hidden 

@@ -1,4 +1,4 @@
-A **Convolutional Neural Network (CNN)** is a specialized type of [[concepts/neural networks/Deep Learning|Deep Learning]] architecture specifically designed for **image recognition and processing**. It excels at extracting features from image data and identifying patterns within visual information. Here's a breakdown of its key characteristics:
+A **Convolutional Neural Network (CNN)** is a specialized type of [[concepts/neural networks/Deep Learning|Deep Learning]] architecture specifically designed for **image recognition and processing**. It excels at extracting [[Feature|features]] from image data and identifying patterns within visual information. Here's a breakdown of its key characteristics:
 
 **Structure:**
 

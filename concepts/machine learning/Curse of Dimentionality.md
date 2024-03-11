@@ -20,7 +20,7 @@ The **curse of dimensionality**, as aptly named, <mark style="background: #FFF3A
 **Real-world consequences:**
 
 - Inaccurate predictions due to overfitting or poor distance measures.
-- Difficulty interpreting models with many features.
+- Difficulty interpreting models with many [[Feature|features]].
 - Increased cost and time required for training and analysis.
 
 **How to combat the curse?**

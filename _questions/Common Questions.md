@@ -11,7 +11,7 @@
 - [x] What is the parquet data format? [[entities/general/Parquet data format|answer]]
 - [ ] What is the k-Nearest-Neighbors (kNN) algorithm in ML?
 - [ ] What is the Random Cut Forest (RCF) algorithm in ML?
-- [ ] What is the Linear Learner algorithm in ML?
+- [x] What is the Linear Learner algorithm in ML? [[concepts/machine learning/Linear Learner|answer]]
 - [ ] What is Apache Hadoop?
 - [ ] What is MapReduce?
 - [ ] What is Apache Spark?
@@ -60,7 +60,7 @@
 - [ ] What is L1 and L2 regularization in AI?
 - [ ] What is the Vanishing Gradient Problem?
 - [ ] How do we dubug training of the ANN?
-- [ ] What is Precision of the model?
+- [x] What is Precision of the model? [[Precision|answer]]
 - [ ] What is Recall of the model?
 - [ ] What is F1 of the model?
 - [ ] What is AUC of the model?
@@ -89,5 +89,9 @@
 - [ ] What is the R-Squared metric?
 - [x] What is SSML for the document? [[entities/ml/SSML|answer]]
 - [x] What is pronunciation lexicon? [[entities/aws/Pronunciation Lexicon|answer]]
+- [ ] What is Semantic Segmentation ML algorithm?
+- [ ] What is Segmentation mask in image recognition algorithms?
+- [ ] What are epochs, learning rate, batch size, optimizer hyperparameters?
+- [ ] What are the main types of loss function used for Linear Learner?
 
 #hidden

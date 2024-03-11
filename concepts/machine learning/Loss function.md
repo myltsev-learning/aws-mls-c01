@@ -1,4 +1,4 @@
-In machine learning, a loss function, also sometimes referred to as a cost function or error function, <mark style="background: #FFF3A3A6;">is a method for evaluating how well a machine learning model is performing. It quantifies the difference between the predicted outputs of the model and the actual target values.</mark>
+In machine learning, a l<mark style="background: #FFF3A3A6;">oss function, also sometimes referred to as a cost function or error function, is a method for evaluating how well a machine learning model is performing. It quantifies the difference between the predicted outputs of the model and the actual target values.</mark>
 
 Imagine you're training a machine learning model to predict housing prices. The loss function would tell you how far off your model's predicted prices are from the actual selling prices of the houses in your training data.
 

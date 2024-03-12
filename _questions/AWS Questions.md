@@ -4,7 +4,7 @@
 - [x] What is Amazon CloudWatch? [[entities/aws/Amazon CloudWatch|Amazon CloudWatch|answer]]
 - [ ] What is Amazon SageMaker Ground Truth?
 - [ ] What is Amazon Mechanical Turk?
-- [ ] What is Amazon Bedrock?
+- [x] What is Amazon Bedrock? [[Amazon Bedrock|answer]]
 - [x] What is Amazon SageMaker? [[Amazon SageMaker|answer]]
 - [ ] What is Amazon ECS Fargate?
 - [x] What is Amazon Polly?

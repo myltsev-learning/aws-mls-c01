@@ -1,0 +1,3 @@
+An oversampling technique that addresses the potential overfitting issue in standard oversampling by creating new synthetic data points for the minority class. These synthetic data points are generated along the lines between existing minority class examples and their nearest neighbors, helping to increase the diversity of the minority class and reduce the risk of the model overfitting to the specific examples in the original dataset.
+
+#card

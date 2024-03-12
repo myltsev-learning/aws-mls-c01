@@ -29,17 +29,17 @@
 - [ ] What is imputing missing data in ML?
 - [ ] What is Mean Replacement in ML?
 - [ ] What is Dropping missing data approach in ML?
-- [ ] How to use KNN algorithm for imputing data in ML?
+- [x] How to use KNN algorithm for imputing data in ML? [[SMOTE|answer]]
 - [ ] How to use Deep Learning for imputing data in ML?
-- [ ] How to use regression for imputing data in ML?
-- [ ] What is unbalanced data in ML?
-- [ ] How to handle unbalanced data in ML?
+- [x] How to use regression for imputing data in ML? [[cards/ml/MICE (Multiple Imputation by Chained Equations)|answer]]
+- [x] What is unbalanced data in ML? [[cards/ml/Unbalanced Data|answer]]
+- [x] How to handle unbalanced data in ML? [[cards/ml/Unbalanced Data|answer]]
 - [x] What is PCA (Principal Component Analysis) in ML? [[PCA|answer]]
 - [ ] What is t-distributed stochastic neighbor embedding?
-- [ ] What is Oversampling technique in handling unbalanced data in ML?
-- [ ] What is Undersampling technique in handling unbalanced data in ML?
-- [ ] What is MICE in context of ML?
-- [ ] What is SMOTE in ML?
+- [x] What is Oversampling technique in handling unbalanced data in ML? [[concepts/machine learning/Oversampling|answer]]
+- [x] What is Undersampling technique in handling unbalanced data in ML? [[concepts/machine learning/Undersampling|answer]]
+- [x] What is MICE in context of ML? [[concepts/machine learning/MICE (Multiple Imputation by Chained Equations)|answer]]
+- [x] What is SMOTE in ML? [[SMOTE|answer]]
 - [ ] What is Binning in feature engineering in ML?
 - [ ] What is Transforming in feature engineering in ML?
 - [ ] What is Encoding in feature engineering in ML?

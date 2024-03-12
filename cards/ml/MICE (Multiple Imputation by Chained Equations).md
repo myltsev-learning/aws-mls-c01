@@ -1,0 +1,3 @@
+A statistical technique for handling missing data in datasets. It works by creating multiple imputed versions of the dataset, where each version fills in the missing values using statistical methods. This helps to account for the uncertainty caused by missing data and can improve the accuracy of models, especially when dealing with unbalanced datasets where missing data is more prevalent in one class.
+
+#card 

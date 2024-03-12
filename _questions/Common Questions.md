@@ -93,5 +93,10 @@
 - [ ] What is Segmentation mask in image recognition algorithms?
 - [ ] What are epochs, learning rate, batch size, optimizer hyperparameters?
 - [ ] What are the main types of loss function used for Linear Learner?
+- [ ] What is the concept drift in ML?
+- [ ] What is ResNet ANN architecture for image classification?
+- [ ] What is Inception ANN architecture for image classification?
+- [ ] What is the difference between ResNet and Inception architectures?
+- [ ] What are the dense and flatten layers of the network and what is the difference between them?
 
 #hidden

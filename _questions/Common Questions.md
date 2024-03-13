@@ -98,5 +98,7 @@
 - [ ] What is Inception ANN architecture for image classification?
 - [ ] What is the difference between ResNet and Inception architectures?
 - [ ] What are the dense and flatten layers of the network and what is the difference between them?
+- [ ] What is Binomial distribution?
+- [ ] What is Uniform distribution?
 
 #hidden

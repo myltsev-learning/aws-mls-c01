@@ -84,7 +84,7 @@
 - [ ] What is Lasso and Ridge regularization techniques?
 - [ ] What is the Mean Squared Error metric?
 - [ ] What is the Root Mean Squared Error metric?
-- [ ] What is the Mean Absolute Percentage Error metric?
+- [ ] What is the Mean Absolute Percentage Error metric (MAPE)?
 - [ ] What is the Mean Absolute Error metric?
 - [ ] What is the R-Squared metric?
 - [x] What is SSML for the document? [[entities/ml/SSML|answer]]
@@ -101,5 +101,9 @@
 - [ ] What is Binomial distribution?
 - [ ] What is Uniform distribution?
 - [ ] What is Last Observation Carried Forward?
+- [ ] What is Tensorflow Horovod?
+- [ ] What is RecordIO protobuf format?
+- [ ] Do we split dataset before scaling or after?
+
 
 #hidden

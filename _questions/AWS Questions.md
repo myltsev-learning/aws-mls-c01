@@ -9,6 +9,6 @@
 - [ ] What is Amazon ECS Fargate?
 - [x] What is Amazon Polly?
 - [ ] What is Amazon Rekognition Video service? And how it works?
-- [ ] 
+- [ ] What is Amazon QuickSight?
 
 #hidden 

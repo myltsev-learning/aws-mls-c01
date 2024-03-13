@@ -100,5 +100,6 @@
 - [ ] What are the dense and flatten layers of the network and what is the difference between them?
 - [ ] What is Binomial distribution?
 - [ ] What is Uniform distribution?
+- [ ] What is Last Observation Carried Forward?
 
 #hidden

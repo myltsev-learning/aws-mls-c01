@@ -113,6 +113,8 @@ It's a ReLU, but slope in the negative part is learned via backpropagation
 - Swish (something from Google)
 - Maxout (it's just outputs the max of the inputs)
 
+![[test]]
+
 <aside>Softmax</aside>
 
 It's an activation function as well (often used as a final layer before output). Basically converts outputs to probabilities of each classification

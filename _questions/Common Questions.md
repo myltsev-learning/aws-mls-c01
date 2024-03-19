@@ -22,7 +22,7 @@
 - [ ] How to handle missing values in the data and outliers?
 - [ ] What is Spark MLLib?
 - [ ] What is Zeppelin in context of Apache Spark?
-- [ ] What is feature engineering in ML?
+- [x] What is feature engineering in ML? [[Feature Engineering Techniques|answer]]
 - [x] What is dimensionality of data in ML? [[concepts/machine learning/Dimentionality|answer]]
 - [x] What is Curse of Dimensionality in ML? [[concepts/machine learning/Curse of Dimentionality|answer]]
 - [x] What is dimensionality reduction in ML? [[PCA|one of the answers]]
@@ -41,8 +41,8 @@
 - [x] What is MICE in context of ML? [[concepts/machine learning/MICE (Multiple Imputation by Chained Equations)|answer]]
 - [x] What is SMOTE in ML? [[SMOTE|answer]]
 - [ ] What is Binning in feature engineering in ML?
-- [ ] What is Transforming in feature engineering in ML?
-- [ ] What is Encoding in feature engineering in ML?
+- [x] What is Transforming in feature engineering in ML? [[Feature Engineering Techniques|answer]]
+- [x] What is Encoding in feature engineering in ML? [[Feature Engineering Techniques|answer]]
 - [ ] What is Scaling in feature engineering in ML?
 - [ ] What is Shuffling in feature engineering in ML?
 - [ ] What is one-hot encoding?
@@ -93,7 +93,7 @@
 - [ ] What is Segmentation mask in image recognition algorithms?
 - [ ] What are epochs, learning rate, batch size, optimizer hyperparameters?
 - [ ] What are the main types of loss function used for Linear Learner?
-- [ ] What is the concept drift in ML?
+- [ ] What are the concept and data drift in ML?
 - [ ] What is ResNet ANN architecture for image classification?
 - [ ] What is Inception ANN architecture for image classification?
 - [ ] What is the difference between ResNet and Inception architectures?
@@ -104,6 +104,16 @@
 - [ ] What is Tensorflow Horovod?
 - [ ] What is RecordIO protobuf format?
 - [ ] Do we split dataset before scaling or after?
-
+- [ ] What are the File and Pipe mode of the Amazon SageMaker? And what is the difference?
+- [ ] What is the Neural Topic Model?
+- [ ] What is Latent Dirichlet Dialect Allocation (LDA)?
+- [ ] What is K-Means clustering?
+- [ ] What is elbow method?
+- [ ] What is Factorization Machines?
+- [ ] What is IP Insights algorithm?
+- [ ] What is term frequency-inverse document frequency (TF-IDF) vectorizer?
+- [ ] What is Normalized Discounted Cumulative Gain (NDCG) score?
+- [ ] What is the Difference in Proportions of Labels (DPL)?
+- [ ] 
 
 #hidden

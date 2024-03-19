@@ -10,7 +10,7 @@ The KNN algorithm follows these steps:
 2. **Choose the value of k**: Select the number of nearest neighbors (k) that will be used for classification or regression.
 3. **Calculate the distances**: For a new data point, calculate the distance between that point and all the training examples using a distance metric (e.g., Euclidean distance, Manhattan distance, or others).
 4. **Find the nearest neighbors**: Select the k training examples that are closest to the new data point based on the calculated distances.
-5. **Classify or predict**: For classification tasks, assign the class label that is most frequent among the k nearest neighbors. For regression tasks, take the average or median of the target values of the k nearest neighbors.
+5. **Classify or predict**: For classification tasks, assign the [[concepts/machine learning/Classes|class]] label that is most frequent among the k nearest neighbors. For regression tasks, take the average or median of the target values of the k nearest neighbors.
 
 ## Distance Metrics
 
@@ -43,7 +43,7 @@ def minkowski_distance(x1, x2, p):
 
 ## Choosing the Value of k
 
-The value of k is a hyperparameter that needs to be tuned for optimal performance. A small value of k can lead to overfitting, while a large value of k can lead to underfitting. There is no definitive rule for choosing the best value of k, but some common techniques include:
+The value of k is a [[entities/general/Hyperparameters of ANN|hyperparameter]] that needs to be tuned for optimal performance. A small value of k can lead to [[concepts/machine learning/Overfitting|overfitting]] , while a large value of k can lead to [[concepts/machine learning/Underfitting|underfitting]]. There is no definitive rule for choosing the best value of k, but some common techniques include:
 
 - Cross-validation: Split the data into training and validation sets, and try different values of k to find the one that minimizes the validation error.
 - Domain knowledge: Use prior knowledge about the problem to guide the choice of k.
@@ -62,7 +62,7 @@ The value of k is a hyperparameter that needs to be tuned for optimal performanc
 
 - Computationally expensive for large datasets
 - Sensitive to the choice of distance metric and the value of k
-- Susceptible to the curse of dimensionality
+- Susceptible to the [[concepts/machine learning/Curse of Dimentionality|Curse of Dimentionality]]
 - Does not work well with high-dimensional sparse data
 
 ## Applications

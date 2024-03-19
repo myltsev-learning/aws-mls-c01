@@ -14,7 +14,7 @@ Yes, you're absolutely correct! Here's why linear regression (D) is an excellent
 
 **Why Linear Regression is the Best Fit:**
 
-- **Continuous Target Variable:** The goal is to predict the number of units to be produced, which is a continuous numerical value. Linear regression is specifically designed for predicting continuous outcomes.
+- **Continuous Target Variable:** The goal is to predict the number of units to be produced, which is a continuous numerical value. [[concepts/statistics/Linear Regression|Linear Regression]] is specifically designed for predicting continuous outcomes.
 - **Historical Sales Data:** You have labeled historical sales data, meaning you have known input features (like past sales trends, seasonality, etc.) and the corresponding target variable (number of units produced). This is ideal for training a linear regression model.
 - **Forecasting:** Predicting future values based on historical data is a classic use case for regression models.
 
